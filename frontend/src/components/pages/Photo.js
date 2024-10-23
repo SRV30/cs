@@ -57,7 +57,7 @@ const Photo = () => {
               >
                 <img
                   src={image.url}
-                  alt={`Photo ${index + 1}`}
+                  alt="photo"
                   className="w-full h-auto rounded-md shadow-md"
                 />
               </a>
